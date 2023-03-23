@@ -1,0 +1,13 @@
+
+.intro{color: lightblue;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+font-weight: bolder;}
+.education>h2{color: rgb(152, 215, 236);}
+
+.tool>h2{color: rgb(105, 205, 238);}
+.project>h2{color: rgb(60, 180, 220);}
+.activity>h2{color: rgb(36, 175, 221);}
+.Award>h2{color: rgb(12, 168, 221);}
+img{width: 300px; height: 500px;}
+#original{font-style: italic;
+    color: lightblue;}
